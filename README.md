@@ -1,5 +1,5 @@
 # roBook - Autonomous Manuscript Sorting System
-[![GitHub Link](https://shields.io)](https://github.com/ishaans-projects/roBook-WRO-2026)
+
 
 An innovative, automated robotic solution designed to safely sort and preserve ancient manuscripts by date and geographical origin, preventing damage and human error in museums. Created for the **World Robot Olympiad (WRO) 2026 - Future Innovators (Elementary)**, where it won **3rd Place in Canada**.
 
